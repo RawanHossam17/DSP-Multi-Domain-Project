@@ -1,7 +1,5 @@
 """Image filtering functions for Student 5 (2D Fourier & Image Filtering).
 
-This module contains reusable functions for the Streamlit app and for
-Student 6's image-processing work. It does not depend on Google Colab.
 """
 
 import cv2
